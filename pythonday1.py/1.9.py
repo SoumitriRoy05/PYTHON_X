@@ -1,3 +1,6 @@
+#WAP to calculate the following equation by inputting the value of x, y and n in the range [2 to 8]
+
+
 x = int(input("Enter the value of x (between 2 and 8): ")) 
 y = int(input("Enter the value of y (between 2 and 8): ")) 
 n = int(input("Enter the value of n (between 2 and 8): ")) 
