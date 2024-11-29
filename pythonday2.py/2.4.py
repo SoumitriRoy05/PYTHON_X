@@ -1,4 +1,4 @@
-
+#rite a Python program to input 2 strings and insert side-by-side one character from string 2 in string1. (For Ex: String1="Amar", String1="Peter", result= "APmeatrr")
 
 def merge_strings(string1, string2):
     result = ""
