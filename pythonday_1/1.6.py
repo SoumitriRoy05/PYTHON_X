@@ -1,3 +1,4 @@
+#WAP to calculate the area of triangle, rectangle, circle, sphere
 r=float(input("Enter radius:"))
 l=float(input("Enter length:"))
 b=float(input("Enter base:"))
