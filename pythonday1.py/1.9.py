@@ -1,4 +1,5 @@
 #WAP to calculate the following equation by inputting the value of x, y and n in the range [2 to 8]
+#[(x^2+x^3)/(y/4+y/3+y^8)]^2n * [(y^6+y^2)/x^9] 
 
 
 x = int(input("Enter the value of x (between 2 and 8): ")) 
