@@ -1,3 +1,5 @@
+# WAP to input principal amount, rate of interest and time then calculate simple interest and cumulative interest.
+
 c_amount=int(input("enter amount:"))
 rate=float(input("enter the rate:"))
 time=int(input("enter time:"))
