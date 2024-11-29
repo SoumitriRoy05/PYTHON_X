@@ -1,4 +1,11 @@
-# Ai with using 3rd variable
+#A) WAP to swap numeric values of two variables
+  #	i) With using third variable
+	# ii) Without using third variable
+#B) WAP to swap string values of two variables
+  #	i) With using third variable
+	# ii) Without using third variable
+
+# A. i.  with using 3rd variable
 
 #a=int(input("enter a number:"))
 #b=int(input("Enter a number:"))
@@ -8,7 +15,7 @@
 #print("Swapped value of a:",a)
 #print("swapped value of b:", b)
 
-#Aii without using 3rd variable
+#A. ii.  without using 3rd variable
 
 # a=int(input("Enter a number:"))
 # b=int(input("Enter a number:"))
@@ -18,7 +25,7 @@
 # print("Swapped value of a:",a)
 # print("Swapped value of b:",b)
 
-#BI swap string values with variable
+#B. i.  swap string values with variable
 
 # s1="HELLO"
 # s2="EVERYONE"
@@ -30,7 +37,7 @@
 # print("Swapped variable of string 1:", s1)
 # print("swapped variable of string 2:",s2)
 
-#BII swap string values without variable
+#B. ii. swap string values without variable
 
 # s1="GOOD"
 # s2="AFTERNOON"
