@@ -1,3 +1,10 @@
+#WAP to input a number through user and check whether the number is:
+
+#a. Armstrong number
+#b. Perfect number
+#c. Adam number
+#d. Palindrome number
+
 n=int(input("Enter a number:"))
 def is_armstrong_number(n):
     num_str = str(n)
