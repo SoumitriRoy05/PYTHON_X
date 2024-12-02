@@ -1,4 +1,4 @@
-#arithmetic calculatore
+#Write a Python code to design an arithmetic calculator(+,-,*,/,%,<<,>>) with inputting 2 numbers
 
 def arithmetic_calculator():
     
