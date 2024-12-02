@@ -1,4 +1,5 @@
-#String Conversion
+#WAP to input a lowercase string from user and convert it into uppercase without using inbuilt function
+
 def convert_to_uppercase(string):
     """Converts a lowercase string to uppercase without using built-in functions.
     Args:
