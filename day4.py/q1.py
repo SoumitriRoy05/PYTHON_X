@@ -1,3 +1,10 @@
+#WAP to input some amount and calculate the discount based on the amount and give the rate, and display the output.
+#Amount  	    Discount
+#0-5000 	     5%
+#5000-15000	     12%
+#15000-25000	     20%
+#Above 25000	     30%
+
 amount=float(input("Enter the required amount:"))
 if amount in range (0<amount<=5000):
   discount_val=(amount*5)/100
