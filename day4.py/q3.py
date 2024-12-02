@@ -1,3 +1,5 @@
+#WAP to enter two numbers from user input and find their LCM and HCF
+
 n=int(input("Enter a number:"))
 m=int(input("Enter a number:"))
 HCF=1
