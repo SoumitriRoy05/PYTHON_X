@@ -1,3 +1,9 @@
+#WAP to find all the prime numbers between 11 to 100. And print their sum.
+
+#Example:
+#Input: [1 to 10]
+#Output: prime no. 1, 3, 5, 7, sum = 16
+
 def is_prime(n):
     if n <= 1:
         return False
