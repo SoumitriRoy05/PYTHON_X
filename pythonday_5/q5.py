@@ -1,3 +1,5 @@
+##WAP to find the average of the maximum and minimum element of a list
+
 n = int(input("Enter the number of elements in the list: "))
 number = []
 for i in range(n):
