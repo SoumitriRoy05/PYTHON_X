@@ -1,3 +1,5 @@
+#WAP to find the odd numbers and even numbers from the entered list and display them in two lists.
+
 numbers=[]
 n=int(input("Enter the number of elements in the list:"))
 for i in range(n):
