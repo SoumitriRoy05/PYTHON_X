@@ -1,3 +1,5 @@
+#WAP to count positive numbers, negative numbers, and zeros in a list
+
 n = int(input("Enter the number of elements in the list: "))
 numbers = []
 for i in range(n):
