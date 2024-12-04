@@ -1,3 +1,5 @@
+#WAP to display all the common elements of two lists which are inputted by the user
+
 lst_1 = []
 n_1 = int(input("Enter elements for the first list: "))
 for i in range(n_1):
