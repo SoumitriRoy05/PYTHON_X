@@ -1,3 +1,6 @@
+#WAP to sort the following list.
+#list1 = [25, 47, -23, 0, -50, 24, 8, 1, 9, 10]
+
 list1 = [25, 47, -23, 0, -50, 24, 8, 1, 9, 10]
 n = len(list1)
 for i in range(n):
