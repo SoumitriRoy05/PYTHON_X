@@ -1,3 +1,6 @@
+#Write a Python programme to do the addition and multiplication of numbers inputted from user in the form of tuple (use function).
+#[Collect the values of tuples from user then convert it into list and run function to do the addition and multiplication.]
+
 def tuples(tuples):
     addition = sum(tuples)
     multiplication = 1
