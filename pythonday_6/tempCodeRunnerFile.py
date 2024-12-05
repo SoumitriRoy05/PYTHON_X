@@ -1,0 +1,1 @@
+revstr=i+revstr
