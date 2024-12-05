@@ -1,3 +1,4 @@
+#Write a programme in Python to check a user inputted string is palindrome
 #without function
 
 str_input = input("Enter a string: ")  
