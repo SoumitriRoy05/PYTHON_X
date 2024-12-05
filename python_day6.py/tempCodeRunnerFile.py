@@ -1,1 +1,0 @@
-revstr=i+revstr
