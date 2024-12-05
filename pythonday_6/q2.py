@@ -1,3 +1,5 @@
+#Execute an arithmetic calculator using function
+
 def calculator(a, b, operation):
     if operation == 'add':
         return a + b
