@@ -1,4 +1,5 @@
-# Global variable, taking input from the user
+# WAP  in python to demonstrate name clashes in different name spaces
+
 x = int(input("Enter a value for global x: "))
 
 def outer_function():
