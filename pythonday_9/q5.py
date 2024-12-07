@@ -1,3 +1,4 @@
+# Write a python program to rename a file to “renamed_by_python.txt”
 
 original_file=open("poems.txt","r")
 content = original_file.read()
