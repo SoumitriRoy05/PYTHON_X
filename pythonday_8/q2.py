@@ -1,3 +1,5 @@
+#WAP in python to print each line of a file in reverse order
+
 file=open("example.txt","r")
 lines = file.readlines()
 for line in lines:
