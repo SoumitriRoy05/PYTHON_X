@@ -1,3 +1,5 @@
+#WAP in python to count frequency of characters in a file
+
 file = open("myfile1.txt", "r")
 text = file.read()
 file.close()
