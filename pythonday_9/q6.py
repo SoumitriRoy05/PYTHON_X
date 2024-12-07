@@ -1,3 +1,4 @@
+#A file contains a word “donkey” multiple times. You need to write a program which replaces this word with $$$$$ by updating the same file
 
 f=open("animals.txt","w")
 f.write("The donkey is a domesticated animal. Donkey can carry loads.")
