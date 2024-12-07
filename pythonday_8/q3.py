@@ -1,3 +1,4 @@
+#WAP in python to count the number of characters, words and lines in a file
 
 char_count = 0
 word_count = 0
