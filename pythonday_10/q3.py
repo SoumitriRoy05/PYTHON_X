@@ -1,3 +1,4 @@
+#Write a program in python to demonstrate Try, Except with Finally block. What is the need of finally block in python explain this
 
 a = int(input("Enter the numerator (a): "))
 b = int(input("Enter the denominator (b): "))
