@@ -1,3 +1,5 @@
+#Write a program in python to demonstrate different types of Exceptions and Errors
+
 print("Example of ZeroDivisionError:")
 a = 10
 b = 0
